@@ -1,9 +1,9 @@
 root_folder: /docs/
 sections:
-  - about
-  - getting-started
-  - ui-components
-  - manage-content
-  - tools
-  - faq
-  - community
+  - Frameworks
+  - GIT - SSH - SVN
+  - CMS
+  - Base de donnée
+  - Outils
+  - Applications
+  - SEO
